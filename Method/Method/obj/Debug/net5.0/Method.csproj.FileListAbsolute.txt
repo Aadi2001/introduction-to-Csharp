@@ -1,0 +1,16 @@
+E:\VS Data\Method\Method\bin\Debug\net5.0\Method.exe
+E:\VS Data\Method\Method\bin\Debug\net5.0\Method.deps.json
+E:\VS Data\Method\Method\bin\Debug\net5.0\Method.runtimeconfig.json
+E:\VS Data\Method\Method\bin\Debug\net5.0\Method.runtimeconfig.dev.json
+E:\VS Data\Method\Method\bin\Debug\net5.0\Method.dll
+E:\VS Data\Method\Method\bin\Debug\net5.0\ref\Method.dll
+E:\VS Data\Method\Method\bin\Debug\net5.0\Method.pdb
+E:\VS Data\Method\Method\obj\Debug\net5.0\Method.csproj.AssemblyReference.cache
+E:\VS Data\Method\Method\obj\Debug\net5.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Data\Method\Method\obj\Debug\net5.0\Method.AssemblyInfoInputs.cache
+E:\VS Data\Method\Method\obj\Debug\net5.0\Method.AssemblyInfo.cs
+E:\VS Data\Method\Method\obj\Debug\net5.0\Method.csproj.CoreCompileInputs.cache
+E:\VS Data\Method\Method\obj\Debug\net5.0\Method.dll
+E:\VS Data\Method\Method\obj\Debug\net5.0\ref\Method.dll
+E:\VS Data\Method\Method\obj\Debug\net5.0\Method.pdb
+E:\VS Data\Method\Method\obj\Debug\net5.0\Method.genruntimeconfig.cache
