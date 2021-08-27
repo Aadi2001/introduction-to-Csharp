@@ -32,7 +32,7 @@ namespace Method
             Console.WriteLine("Division " + total);
         }
 
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
             Console.WriteLine("Enter 1 for Addition");
             Console.WriteLine("Enter 2 for Subtraction");
