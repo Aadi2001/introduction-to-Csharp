@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AdvanceTopic/1.0.0": {
+        "runtime": {
+          "AdvanceTopic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvanceTopic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

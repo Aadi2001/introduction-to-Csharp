@@ -1,0 +1,16 @@
+E:\VS Data\ExceptionalHandling\bin\Debug\net5.0\ExceptionalHandling.exe
+E:\VS Data\ExceptionalHandling\bin\Debug\net5.0\ExceptionalHandling.deps.json
+E:\VS Data\ExceptionalHandling\bin\Debug\net5.0\ExceptionalHandling.runtimeconfig.json
+E:\VS Data\ExceptionalHandling\bin\Debug\net5.0\ExceptionalHandling.runtimeconfig.dev.json
+E:\VS Data\ExceptionalHandling\bin\Debug\net5.0\ExceptionalHandling.dll
+E:\VS Data\ExceptionalHandling\bin\Debug\net5.0\ref\ExceptionalHandling.dll
+E:\VS Data\ExceptionalHandling\bin\Debug\net5.0\ExceptionalHandling.pdb
+E:\VS Data\ExceptionalHandling\obj\Debug\net5.0\ExceptionalHandling.csproj.AssemblyReference.cache
+E:\VS Data\ExceptionalHandling\obj\Debug\net5.0\ExceptionalHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Data\ExceptionalHandling\obj\Debug\net5.0\ExceptionalHandling.AssemblyInfoInputs.cache
+E:\VS Data\ExceptionalHandling\obj\Debug\net5.0\ExceptionalHandling.AssemblyInfo.cs
+E:\VS Data\ExceptionalHandling\obj\Debug\net5.0\ExceptionalHandling.csproj.CoreCompileInputs.cache
+E:\VS Data\ExceptionalHandling\obj\Debug\net5.0\ExceptionalHandling.dll
+E:\VS Data\ExceptionalHandling\obj\Debug\net5.0\ref\ExceptionalHandling.dll
+E:\VS Data\ExceptionalHandling\obj\Debug\net5.0\ExceptionalHandling.pdb
+E:\VS Data\ExceptionalHandling\obj\Debug\net5.0\ExceptionalHandling.genruntimeconfig.cache

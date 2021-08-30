@@ -1,0 +1,16 @@
+E:\VS Data\AdvanceTopic\obj\Debug\net5.0\AdvanceTopic.csproj.AssemblyReference.cache
+E:\VS Data\AdvanceTopic\obj\Debug\net5.0\AdvanceTopic.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Data\AdvanceTopic\obj\Debug\net5.0\AdvanceTopic.AssemblyInfoInputs.cache
+E:\VS Data\AdvanceTopic\obj\Debug\net5.0\AdvanceTopic.AssemblyInfo.cs
+E:\VS Data\AdvanceTopic\obj\Debug\net5.0\AdvanceTopic.csproj.CoreCompileInputs.cache
+E:\VS Data\AdvanceTopic\bin\Debug\net5.0\AdvanceTopic.exe
+E:\VS Data\AdvanceTopic\bin\Debug\net5.0\AdvanceTopic.deps.json
+E:\VS Data\AdvanceTopic\bin\Debug\net5.0\AdvanceTopic.runtimeconfig.json
+E:\VS Data\AdvanceTopic\bin\Debug\net5.0\AdvanceTopic.runtimeconfig.dev.json
+E:\VS Data\AdvanceTopic\bin\Debug\net5.0\AdvanceTopic.dll
+E:\VS Data\AdvanceTopic\bin\Debug\net5.0\ref\AdvanceTopic.dll
+E:\VS Data\AdvanceTopic\bin\Debug\net5.0\AdvanceTopic.pdb
+E:\VS Data\AdvanceTopic\obj\Debug\net5.0\AdvanceTopic.dll
+E:\VS Data\AdvanceTopic\obj\Debug\net5.0\ref\AdvanceTopic.dll
+E:\VS Data\AdvanceTopic\obj\Debug\net5.0\AdvanceTopic.pdb
+E:\VS Data\AdvanceTopic\obj\Debug\net5.0\AdvanceTopic.genruntimeconfig.cache
