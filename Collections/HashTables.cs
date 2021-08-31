@@ -9,7 +9,7 @@ namespace Collections
 {
     class HashTable
     {
-        public static void Main()
+        public static void main()
         {
             Hashtable numberNames = new Hashtable();
             numberNames.Add(1, "One");
@@ -32,8 +32,9 @@ namespace Collections
             Console.WriteLine("\n");
             Console.WriteLine(cities["UK"]);
             cities.Remove("UK");
-            cities["INDIA"] = "Banglore";
-
+            //cities["INDIA"] = "Banglore";
+            cities["INDIA"] = cities["INDIA"] + ", " + "Pune";
+            //cities.Clone();
             //cities.Add(INDIA, Banglore);
 
             Console.WriteLine("\n");
